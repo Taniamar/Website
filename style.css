@@ -9,3 +9,9 @@ p{
 body{
 	background-color:#b2ffd4;
 }
+#top{
+	width: 400px;
+	height: auto;
+	margin: 0 auto;
+	display:block;
+}
